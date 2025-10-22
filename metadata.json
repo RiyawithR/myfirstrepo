@@ -1,0 +1,7 @@
+{
+  "name": "Emergency SOS and Location Sharing App",
+  "description": "An application to send SOS alerts with your location to emergency contacts and get AI-powered guidance in critical situations.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
